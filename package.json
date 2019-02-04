@@ -4,5 +4,5 @@
   "description": "",
   "author": "Jonathan M. Wilbur",
   "license": "MIT",
-  "types": ""
+  "types": "./dist/index.d.ts"
 }
