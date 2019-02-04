@@ -1,3 +1,3 @@
-export default interface Long {
+export interface Long {
     length(): number;
 }

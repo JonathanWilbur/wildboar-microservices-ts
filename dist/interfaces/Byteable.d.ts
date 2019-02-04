@@ -1,3 +1,3 @@
-export default interface Byteable {
+export interface Byteable {
     toBytes(): Uint8Array;
 }

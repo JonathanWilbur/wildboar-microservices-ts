@@ -1,3 +1,3 @@
-export default interface High {
+export interface High {
     height(): number;
 }

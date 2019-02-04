@@ -1,4 +1,4 @@
-export default interface Queue<T> {
+export interface Queue<T> {
     enqueue(item: T): void;
     dequeue(): T;
 }

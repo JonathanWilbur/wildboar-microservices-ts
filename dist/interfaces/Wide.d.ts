@@ -1,3 +1,3 @@
-export default interface Wide {
+export interface Wide {
     width(): number;
 }

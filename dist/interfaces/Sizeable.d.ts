@@ -1,3 +1,3 @@
-export default interface Sizeable {
+export interface Sizeable {
     size(): number;
 }

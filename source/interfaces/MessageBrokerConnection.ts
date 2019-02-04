@@ -1,7 +1,7 @@
-import UniquelyIdentified from "./UniquelyIdentified";
+import { UniquelyIdentified } from "./UniquelyIdentified";
 
-export default
-interface MessageBrokerConnection extends UniquelyIdentified {
+export
+interface Connection extends UniquelyIdentified {
     open () : void;
     close () : void;
 }

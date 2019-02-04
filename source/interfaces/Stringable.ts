@@ -1,4 +1,4 @@
-export default
+export
 interface Stringable {
     toString() : string;
 }

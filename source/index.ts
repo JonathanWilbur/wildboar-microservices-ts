@@ -18,6 +18,6 @@ export * from "./interfaces/Temporal"
 export * from "./interfaces/UniquelyIdentified"
 export * from "./interfaces/Wide"
 
-export * from "./Identifier";
+export { default as UniqueIdentifier } from "./Identifier";
 export * from "./serialization";
 export * from "./TypedKeyValueStore";

@@ -1,3 +1,3 @@
-export default interface Incrementable {
+export interface Incrementable {
     increment(): void;
 }

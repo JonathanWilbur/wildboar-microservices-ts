@@ -1,4 +1,4 @@
-export default interface DoublyLinked<T> {
+export interface DoublyLinked<T> {
     prev(): T;
     next(): T;
 }

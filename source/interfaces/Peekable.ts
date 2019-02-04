@@ -1,4 +1,4 @@
-export default
+export
 interface Peekable<T> {
     peek () : T;
 }

@@ -1,3 +1,3 @@
-export default interface UniquelyIdentified {
+export interface UniquelyIdentified {
     id: string;
 }

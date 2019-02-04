@@ -1,3 +1,3 @@
-export default interface Decrementable {
+export interface Decrementable {
     decrement(): void;
 }

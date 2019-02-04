@@ -1,4 +1,4 @@
-export default interface Deque<T> {
+export interface Deque<T> {
     push(item: T): void;
     unshift(item: T): void;
     pop(): T;

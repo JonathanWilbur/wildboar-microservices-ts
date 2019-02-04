@@ -1,3 +1,3 @@
-export default interface Peekable<T> {
+export interface Peekable<T> {
     peek(): T;
 }

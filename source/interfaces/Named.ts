@@ -1,4 +1,4 @@
-export default
+export
 interface Named {
     name () : string;
 }

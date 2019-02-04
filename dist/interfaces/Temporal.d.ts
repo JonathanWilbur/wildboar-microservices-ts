@@ -1,3 +1,3 @@
-export default interface Temporal {
+export interface Temporal {
     creationTime: Date;
 }

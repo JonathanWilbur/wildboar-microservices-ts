@@ -1,3 +1,3 @@
-export default interface Nameable {
+export interface Nameable {
     name(name: string): void;
 }

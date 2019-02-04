@@ -1,3 +1,3 @@
-export default interface SinglyLinked<T> {
+export interface SinglyLinked<T> {
     next(): T;
 }

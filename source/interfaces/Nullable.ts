@@ -1,4 +1,4 @@
-export default
+export
 interface Nullable<T> {
     value () : T;
     isNull : boolean;
